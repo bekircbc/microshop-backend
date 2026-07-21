@@ -28,4 +28,4 @@ EXPOSE 3000
 # Run as non-root user for security
 USER node
 
-CMD ["node", "src/index.js"]
+CMD ["node", "src/app.js"]
